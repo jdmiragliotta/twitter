@@ -1,0 +1,23 @@
+.userName{
+  font-size: 18px;
+  font-weight: bolder;
+  display: inline;
+}
+
+.userHandle{
+  color: lightgrey;
+  display: inline;
+  padding-left: 5px;
+}
+
+
+.imageSize {
+  height: 50px;
+  width: 50px;
+  border-radius: 6px;
+  padding-right: 5px;
+}
+
+.panel-default{
+  padding: 10px;
+}
