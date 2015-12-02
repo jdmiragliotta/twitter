@@ -12,12 +12,53 @@
 
 
 .imageSize {
-  height: 50px;
-  width: 50px;
-  border-radius: 6px;
+  height: 75px;
+  width: 75px;
+  border-radius: 15px;
   padding-right: 5px;
 }
 
 .panel-default{
   padding: 10px;
+  
+  width: 100%;
 }
+
+.tweet{
+  padding-top: 5px;
+}
+
+.number{
+  display: inline;
+  font-size: 12px;
+  font-weight: bolder;
+  color: lightgrey;
+}
+
+.icon{
+  padding-left: 30px;
+  padding-right:5px;
+  color: lightgrey;
+}
+
+.reply{
+  color: lightgrey;
+  padding-right: 40px;
+}
+
+.reply:hover{
+  color:blue;
+}
+
+.more:hover{
+  color:blue;
+}
+
+.retweet:hover{
+  color: green;
+}
+
+.favorite:hover{
+  color: red;
+}
+
